@@ -1,8 +1,5 @@
 # Financial vs. Topological Market Regimes Using K-Means on the IHSG
 
-
-# Financial vs. Topological Market Regimes Using K-Means on the IHSG
-
 This notebook compares two representations of the Indonesian Composite Stock Price Index (IHSG):
 
 $$
