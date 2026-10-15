@@ -1,6 +1,5 @@
 # Financial vs. Topological Market Regimes Using K-Means on the IHSG
 
-> Converted from `ihsg-tda-kmeans.ipynb` to Markdown. Code cells are preserved; saved cell outputs are included when available.
 
 # Financial vs. Topological Market Regimes Using K-Means on the IHSG
 
